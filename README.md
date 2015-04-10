@@ -17,6 +17,7 @@ switches effect the mutual-coupling between the array elements and subsequently 
 leading to different degree of pattern diversity which can be used to improve link capacity. A new definition of spatial
 correlation is studied to include the effects of antenna mismatch and radiation efficiency when quantifying the benefits of
 pattern diversity.
+
 -------------
 ###*Contributed by*:
 
