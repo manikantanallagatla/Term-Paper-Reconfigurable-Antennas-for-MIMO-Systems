@@ -1,7 +1,7 @@
-#***Reconfigurable Anteenas For MIMO Systems:***
+# ***Reconfigurable Anteenas For MIMO Systems:***
 
 ----------
-###*Abstract*:
+### *Abstract*:
 
 ----------
 
@@ -19,7 +19,7 @@ correlation is studied to include the effects of antenna mismatch and radiation 
 pattern diversity.
 
 -------------
-###*Contributed by*:
+### *Contributed by*:
 
 -------------
 
